@@ -1,4 +1,14 @@
 # Machine-Unlearning
+```
+1️⃣ Is it possible to train a neural network backwards so that it forgets pieces of information?
+
+2️⃣ Is it possible to train a Large Language Model (LLM) backwards so that a user can remove their personal data?
+
+3️⃣ Is it possible to train Siri backwards so that a user can remove information about what they asked on a specific day?
+
+```
+
+
 
 Machine unlearning refers to the process of removing specific data from a machine learning model's training set and then adjusting the model so that it no longer retains any information learned from that data. This is crucial in scenarios where data privacy concerns arise or when specific data points need to be forgotten due to legal or ethical reasons.
 
