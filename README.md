@@ -12,6 +12,9 @@
 
 Machine unlearning refers to the process of removing specific data from a machine learning model's training set and then adjusting the model so that it no longer retains any information learned from that data. This is crucial in scenarios where data privacy concerns arise or when specific data points need to be forgotten due to legal or ethical reasons.
 
+![x1](https://github.com/user-attachments/assets/340f2fee-aa5e-4fa2-82df-bb9846f6bde4)
+
+
 Here’s a general overview of the steps involved in machine unlearning:
 
     Identify the Data to be Removed: Determine which data points need to be removed from the model.
